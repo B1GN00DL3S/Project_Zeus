@@ -1,0 +1,15 @@
+------------------------------
+Command Layout
+‐‐---------------------------
+Project_Zeus.Type(Location)
+
+‐-------
+Type List
+--------
+File #File deletes the file that you input
+Folder #Folder deletes the folder that you input and all its contents including sub folders
+
+--------------
+Location
+--------------
+This is the input that would determin where and what you want to delete. For example for File you input its path and what file you want to delete and for Folder you just need to input the path and what folder you want to delete.
